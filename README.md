@@ -7,7 +7,7 @@
 
 <div align="center">
   
-# 👋 Hi, I’m Stoil (aka **stoilsteve-hub**)
+# 👋 Hi, I’m Steve (aka **stoilsteve-hub**)
 
 🎓 **Full-Time Java Developer Student** — Year 1 of a 2-year program  
 💼 **STRAT7** — **Panel Manager** & **Data Integrity Consultant**  
