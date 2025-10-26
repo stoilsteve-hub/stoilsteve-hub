@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Stoil+%F0%9F%91%8B;Full-Time+Java+Developer+Student+(Year+1+of+2);Panel+Manager+%2B+Data+Integrity+Consultant+at+STRAT7;AI+%E2%80%A2+Data+Analysis+%E2%80%A2+Java+OOP+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Steve+%F0%9F%91%8B;Full-Time+Java+Developer+Student+(Year+1+of+2);Panel+Manager+%2B+Data+Integrity+Consultant+at+STRAT7;AI+%E2%80%A2+Data+Analysis+%E2%80%A2+Java+OOP+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <div align="center">
