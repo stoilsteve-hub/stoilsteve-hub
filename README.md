@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Stoil (aka stoilsteve-hub)!
+# 👋 Hey there, I’m Steve (aka stoilsteve-hub)!
 
 🎓 I’m a **Full-Time Java Developer Student** in my **first year** of a two-year program.  
 💼 I also work at **STRAT7** with a **dual role** as a **Panel Manager** and **Data Integrity Consultant** — a balance of tech, teamwork, and precision!  
