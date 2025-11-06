@@ -78,13 +78,9 @@ Ett Java-projekt med fokus på träning, utformat för att hantera gymaktivitete
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stoilsteve-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoilsteve-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=stoilsteve-hub&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br/>
 
