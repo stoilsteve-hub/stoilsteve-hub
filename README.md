@@ -39,17 +39,10 @@
 
 ---
 
-## 💻 Programming Languages  
-### 💻 Programmeringsspråk
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## 💻 Languages in my repos (auto)
+<!-- LANGUAGES:START -->
+_This section auto-updates daily based on my public GitHub repos._
+<!-- LANGUAGES:END -->
 
 ---
 
@@ -57,12 +50,11 @@
 ### 🚀 Utvalt Projekt  
 
 ### 🏋️ **[BestGymEver](https://github.com/stoilsteve-hub/BestGymEver)**  
-
 A fitness-focused Java project designed to manage gym activities and user data.  
 💡 Demonstrates clean **object-oriented programming**, **logic design**, and **user-focused development**.  
 
 Ett Java-projekt med fokus på träning, utformat för att hantera gymaktiviteter och användardata.  
-💡 Visar på ren **objektorienterad programmering**, **logikdesign** och **användarfokuserad utveckling**.  
+💡 Visar på ren **objektorienterad programmering**, **logikdesign** och förståelse för **användarfokuserad utveckling**.  
 
 ---
 
@@ -78,12 +70,10 @@ Ett Java-projekt med fokus på träning, utformat för att hantera gymaktivitete
 ## 📈 GitHub Vibes  
 
 <div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=stoilsteve-hub&label=Profile%20Views&style=for-the-badge"
-  alt="Profile Views"
-/>
-
+  <img
+    src="https://komarev.com/ghpvc/?username=stoilsteve-hub&label=Profile%20Views&style=for-the-badge"
+    alt="Profile Views"
+  />
 </div>
 
 ---
