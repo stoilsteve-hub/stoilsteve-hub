@@ -1,0 +1,94 @@
+name: Update README languages
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update languages section
+        env:
+          USERNAME: stoilsteve-hub
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - << 'PY'
+          import os, re, json, urllib.request
+
+          username = os.environ["USERNAME"]
+          token = os.environ["GH_TOKEN"]
+
+          def gh_get(url):
+            req = urllib.request.Request(url)
+            req.add_header("Accept", "application/vnd.github+json")
+            req.add_header("Authorization", f"Bearer {token}")
+            with urllib.request.urlopen(req) as resp:
+              return json.loads(resp.read().decode("utf-8"))
+
+          # Fetch all public repos (paginate)
+          repos = []
+          page = 1
+          while True:
+            data = gh_get(f"https://api.github.com/users/{username}/repos?per_page=100&page={page}&type=owner&sort=updated")
+            if not data:
+              break
+            repos.extend(data)
+            page += 1
+
+          # Aggregate languages by bytes
+          totals = {}
+          for r in repos:
+            # skip forks to reflect *your* codebase more clearly
+            if r.get("fork"):
+              continue
+            langs_url = r.get("languages_url")
+            if not langs_url:
+              continue
+            langs = gh_get(langs_url)
+            for lang, b in langs.items():
+              totals[lang] = totals.get(lang, 0) + int(b)
+
+          if not totals:
+            section = "_No language data found yet._"
+          else:
+            grand = sum(totals.values())
+            top = sorted(totals.items(), key=lambda x: x[1], reverse=True)[:10]
+
+            lines = ["| Language | Share |",
+                     "|---|---:|"]
+            for lang, b in top:
+              pct = (b / grand) * 100 if grand else 0
+              lines.append(f"| **{lang}** | {pct:.1f}% |")
+
+            section = "\n".join(lines) + "\n\n_Updated automatically from GitHub Linguist language stats._"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+            readme = f.read()
+
+          start = "<!-- LANGUAGES:START -->"
+          end   = "<!-- LANGUAGES:END -->"
+          pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.S)
+
+          replacement = f"{start}\n{section}\n{end}"
+          new_readme = pattern.sub(replacement, readme)
+
+          if new_readme != readme:
+            with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_readme)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update repo languages"
+          git push
