@@ -30,7 +30,6 @@
 ### 🧰 Teknik & Styrkor
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-00BFA6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Communication-FF6A88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coordination-5B8DEF?style=for-the-badge" />
@@ -38,24 +37,19 @@
   <img src="https://img.shields.io/badge/AI%20%26%20Data%20Analysis-8B5CF6?style=for-the-badge" />
 </p>
 
-💬 Skilled in **problem solving**, **communication**, and **project coordination**  
-💬 Skicklig inom **problemlösning**, **kommunikation** och **projektkoordinering**  
-
-📊 Focused on turning **data into insights** and **ideas into action**  
-📊 Fokuserar på att omvandla **data till insikter** och **idéer till handling**  
-
-☕ Fueled by **curiosity**, **creativity**, and the occasional **espresso shot**  
-☕ Drivs av **nyfikenhet**, **kreativitet** och en och annan **espresso**  
-
 ---
 
 ## 💻 Programming Languages  
 ### 💻 Programmeringsspråk
 
-- ☕ **Java** (primary)
-- 🗄️ **SQL**
-- 🌐 **JavaScript** (basics)
-- 🐍 **Python** (basics)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
@@ -82,18 +76,8 @@ Ett Java-projekt med fokus på träning, utformat för att hantera gymaktivitete
 ---
 
 ## 📈 GitHub Vibes  
-### 📈 GitHub-stats  
 
 <div align="center">
-
-<!-- ✅ FIX OPTION A: reliable mirror + caching -->
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stoilsteve-hub&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400"
-  height="165"
-  alt="Top Languages"
-/>
-
-<br/>
 
 <img
   src="https://komarev.com/ghpvc/?username=stoilsteve-hub&label=Profile%20Views&style=for-the-badge"
