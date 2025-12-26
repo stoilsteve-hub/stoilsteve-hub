@@ -49,6 +49,18 @@
 
 ---
 
+## 💻 Programming Languages  
+### 💻 Programmeringsspråk
+
+> (This section is manual on purpose — it always loads, unlike the stats card.)
+
+- ☕ **Java** (primary)
+- 🗄️ **SQL**
+- 🌐 **JavaScript** (basics)
+- 🐍 **Python** (basics)
+
+---
+
 ## 🚀 Featured Project  
 ### 🚀 Utvalt Projekt  
 
@@ -78,13 +90,24 @@ Ett Java-projekt med fokus på träning, utformat för att hantera gymaktivitete
 
 <div align="center">
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoilsteve-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
-
+<!--
+  ✅ More reliable Top Languages card:
+  - No theme/background params (fewer failures)
+  - Cache buster (v=1) to avoid GitHub caching a failed response
+  - langs_count keeps it compact
+-->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoilsteve-hub&layout=compact&hide_border=true&langs_count=6&v=1"
+  height="165"
+  alt="Top Languages"
+/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=stoilsteve-hub&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+<img
+  src="https://komarev.com/ghpvc/?username=stoilsteve-hub&label=Profile%20Views&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </div>
 
