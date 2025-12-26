@@ -30,12 +30,12 @@
 ### 🧰 Teknik & Styrkor
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-%2300BFA6.svg?style=for-the-badge" />
-  <img alt="Communication" src="https://img.shields.io/badge/Communication-%23FF6A88.svg?style=for-the-badge" />
-  <img alt="Coordination" src="https://img.shields.io/badge/Coordination-%235B8DEF.svg?style=for-the-badge" />
-  <img alt="Project Management" src="https://img.shields.io/badge/Project%20Management-%23FFC107.svg?style=for-the-badge" />
-  <img alt="AI & Data Analysis" src="https://img.shields.io/badge/AI%20%26%20Data%20Analysis-%238B5CF6.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-00BFA6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-FF6A88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coordination-5B8DEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Management-FFC107?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Analysis-8B5CF6?style=for-the-badge" />
 </p>
 
 💬 Skilled in **problem solving**, **communication**, and **project coordination**  
@@ -52,8 +52,6 @@
 ## 💻 Programming Languages  
 ### 💻 Programmeringsspråk
 
-> (This section is manual on purpose — it always loads, unlike the stats card.)
-
 - ☕ **Java** (primary)
 - 🗄️ **SQL**
 - 🌐 **JavaScript** (basics)
@@ -65,11 +63,12 @@
 ### 🚀 Utvalt Projekt  
 
 ### 🏋️ **[BestGymEver](https://github.com/stoilsteve-hub/BestGymEver)**  
+
 A fitness-focused Java project designed to manage gym activities and user data.  
-💡 Demonstrates clean **object-oriented programming**, **logic design**, and an understanding of **user-focused development**.  
+💡 Demonstrates clean **object-oriented programming**, **logic design**, and **user-focused development**.  
 
 Ett Java-projekt med fokus på träning, utformat för att hantera gymaktiviteter och användardata.  
-💡 Visar på ren **objektorienterad programmering**, **logikdesign** och förståelse för **användarfokuserad utveckling**.  
+💡 Visar på ren **objektorienterad programmering**, **logikdesign** och **användarfokuserad utveckling**.  
 
 ---
 
@@ -77,11 +76,8 @@ Ett Java-projekt med fokus på träning, utformat för att hantera gymaktivitete
 ### 🌱 Just nu lär jag mig
 
 - ☕ Advanced **Java** concepts  
-  ☕ Avancerade koncept inom **Java**  
 - 🤖 Integrating **AI tools** into development workflows  
-  🤖 Integrerar **AI-verktyg** i utvecklingsprocesser  
 - 📈 Data analysis and visualization techniques  
-  📈 Dataanalys och visualiseringstekniker  
 
 ---
 
@@ -90,14 +86,9 @@ Ett Java-projekt med fokus på träning, utformat för att hantera gymaktivitete
 
 <div align="center">
 
-<!--
-  ✅ More reliable Top Languages card:
-  - No theme/background params (fewer failures)
-  - Cache buster (v=1) to avoid GitHub caching a failed response
-  - langs_count keeps it compact
--->
+<!-- ✅ FIX OPTION A: reliable mirror + caching -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoilsteve-hub&layout=compact&hide_border=true&langs_count=6&v=1"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stoilsteve-hub&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400"
   height="165"
   alt="Top Languages"
 />
@@ -117,18 +108,11 @@ Ett Java-projekt med fokus på träning, utformat för att hantera gymaktivitete
 ### 🎨 Roliga Fakta  
 
 - 🌍 Love blending **data** with **real-world problem solving**  
-  🌍 Älskar att kombinera **data** med **verkliga problemlösningar**  
-
 - 🚴‍♂️ Passionate **cyclist** — helps me balance tech life and creativity  
-  🚴‍♂️ Passionerad **cyklist** — hjälper mig att balansera teknik och kreativitet  
-
 - 🧠 Constantly curious about how **AI** can simplify complex workflows  
-  🧠 Alltid nyfiken på hur **AI** kan förenkla komplexa arbetsflöden  
-
 - 😄 Motto: *“Code smart, stay curious, and always keep learning!”*  
-  😄 Motto: *“Koda smart, var nyfiken och sluta aldrig lära dig!”*  
 
 ---
 
 ### 💫 Thanks for stopping by!  
-### 💫 Tack för att du tittade förbi!  
+### 💫 Tack för att du tittade förbi!
