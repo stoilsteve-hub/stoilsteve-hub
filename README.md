@@ -41,7 +41,20 @@
 
 ## 💻 Languages in my repos (auto)
 <!-- LANGUAGES:START -->
-_This section auto-updates daily based on my public GitHub repos._
+| Language | Share |
+|---|---:|
+| **Python** | 90.8% |
+| **Cython** | 4.4% |
+| **C** | 3.2% |
+| **XSLT** | 0.7% |
+| **HTML** | 0.4% |
+| **Java** | 0.3% |
+| **C++** | 0.1% |
+| **Shell** | 0.0% |
+| **Nushell** | 0.0% |
+| **PowerShell** | 0.0% |
+
+_Updated automatically from GitHub Linguist language stats._
 <!-- LANGUAGES:END -->
 
 ---
