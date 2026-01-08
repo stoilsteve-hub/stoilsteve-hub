@@ -20,12 +20,10 @@
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🛠 Tech Stack & Skills  
 ### 🛠 Teknikstack & Färdigheter
 
-> **Focusing on Java development and building robust backend systems.**
-
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -33,30 +31,25 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Problem%20Solving-00BFA6?style=flat-square" />
   <img src="https://img.shields.io/badge/Communication-FF6A88?style=flat-square" />
-  <img src="https://img.shields.io/badge/Coordination-5B8DEF?style=flat-square" />
+  <img src="### 🧰 Teknik & Styrkor
+
+<p>
+  <img src="https://img.shields.io/badge/Coordination-5B8DEF?style=flat-square" />
   <img src="https://img.shields.io/badge/Project%20Management-FFC107?style=flat-square" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 ### 📊 Statistik
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoilsteve-hub&layout=compact&theme=vision-friendly-dark&hide=cython,c,xslt,html,shell,nushell,powershell&langs_count=5" alt="Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=stoilsteve-hub&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoilsteve-hub&layout=compact&theme=vision-friendly-dark&hide=cython,c,xslt,html,shell,nushell,powershell&langs_count=5" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stoilsteve-hub&show_icons=true&theme=vision-friendly-dark&count_private=true" />
+</p>
 
 ---
 
@@ -74,9 +67,8 @@ Ett Java-projekt med fokus på träning, utformat för att hantera gymaktivitete
 ## 🌱 Currently Learning  
 ### 🌱 Just nu lär jag mig
 
-- ☕ **Advanced Java** (Collections, Streams, File I/O)
-- 🏗 **Software Design Patterns**
-- 🤖 Integrating **AI tools** into development workflows  
+- ☕ **Advanced Java** (Collections, Streams, File I/O)  
+- 🏗 **Software Design Patterns** - 🤖 Integrating **AI tools** into development workflows  
 
 ---
 
